@@ -1,0 +1,7 @@
+C:\Users\KAREN\OneDrive\Escritorio\paucar_karen\paucar_karen\paucar_karen\obj\Debug\paucar_karen.csproj.AssemblyReference.cache
+C:\Users\KAREN\OneDrive\Escritorio\paucar_karen\paucar_karen\paucar_karen\obj\Debug\paucar_karen.csproj.CoreCompileInputs.cache
+C:\Users\KAREN\OneDrive\Escritorio\paucar_karen\paucar_karen\paucar_karen\bin\Debug\paucar_karen.exe.config
+C:\Users\KAREN\OneDrive\Escritorio\paucar_karen\paucar_karen\paucar_karen\bin\Debug\paucar_karen.exe
+C:\Users\KAREN\OneDrive\Escritorio\paucar_karen\paucar_karen\paucar_karen\bin\Debug\paucar_karen.pdb
+C:\Users\KAREN\OneDrive\Escritorio\paucar_karen\paucar_karen\paucar_karen\obj\Debug\paucar_karen.exe
+C:\Users\KAREN\OneDrive\Escritorio\paucar_karen\paucar_karen\paucar_karen\obj\Debug\paucar_karen.pdb
