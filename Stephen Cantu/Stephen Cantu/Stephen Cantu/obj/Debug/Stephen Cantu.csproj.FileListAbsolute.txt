@@ -1,0 +1,7 @@
+C:\Users\Personal\OneDrive\Documentos\Nueva carpeta\Repositorio_Paiba\Stephen Cantu\Stephen Cantu\Stephen Cantu\bin\Debug\Stephen Cantu.exe.config
+C:\Users\Personal\OneDrive\Documentos\Nueva carpeta\Repositorio_Paiba\Stephen Cantu\Stephen Cantu\Stephen Cantu\bin\Debug\Stephen Cantu.exe
+C:\Users\Personal\OneDrive\Documentos\Nueva carpeta\Repositorio_Paiba\Stephen Cantu\Stephen Cantu\Stephen Cantu\bin\Debug\Stephen Cantu.pdb
+C:\Users\Personal\OneDrive\Documentos\Nueva carpeta\Repositorio_Paiba\Stephen Cantu\Stephen Cantu\Stephen Cantu\obj\Debug\Stephen Cantu.csproj.AssemblyReference.cache
+C:\Users\Personal\OneDrive\Documentos\Nueva carpeta\Repositorio_Paiba\Stephen Cantu\Stephen Cantu\Stephen Cantu\obj\Debug\Stephen Cantu.csproj.CoreCompileInputs.cache
+C:\Users\Personal\OneDrive\Documentos\Nueva carpeta\Repositorio_Paiba\Stephen Cantu\Stephen Cantu\Stephen Cantu\obj\Debug\Stephen Cantu.exe
+C:\Users\Personal\OneDrive\Documentos\Nueva carpeta\Repositorio_Paiba\Stephen Cantu\Stephen Cantu\Stephen Cantu\obj\Debug\Stephen Cantu.pdb

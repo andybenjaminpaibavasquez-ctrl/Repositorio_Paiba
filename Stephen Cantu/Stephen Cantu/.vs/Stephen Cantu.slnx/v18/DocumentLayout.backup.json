@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Personal\\OneDrive\\Documentos\\Nueva carpeta\\Repositorio_Paiba\\Stephen Cantu\\Stephen Cantu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7999B340-6BF8-4F7D-B881-311DE121FB55}|Stephen Cantu\\Stephen Cantu.csproj|c:\\users\\personal\\onedrive\\documentos\\nueva carpeta\\repositorio_paiba\\stephen cantu\\stephen cantu\\stephen cantu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999B340-6BF8-4F7D-B881-311DE121FB55}|Stephen Cantu\\Stephen Cantu.csproj|solutionrelative:stephen cantu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Documentos\\Nueva carpeta\\Repositorio_Paiba\\Stephen Cantu\\Stephen Cantu\\Stephen Cantu\\Program.cs",
+              "RelativeDocumentMoniker": "Stephen Cantu\\Program.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Documentos\\Nueva carpeta\\Repositorio_Paiba\\Stephen Cantu\\Stephen Cantu\\Stephen Cantu\\Program.cs",
+              "RelativeToolTip": "Stephen Cantu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:34:02.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
